@@ -1,0 +1,1 @@
+# chalice requires __init__.py file in chalicelib folder
